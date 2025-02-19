@@ -13,9 +13,9 @@ With a deep understanding of both technical and creative aspects, I thrive in dr
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
 
-<a href="https://github.com/austin-ryder1107/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=austin-ryder1107&show_icons=true&theme=merko&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austin-ryder1107&exclude_repo=github-readme-stats,austin-ryder1107.github.io&show_icons=true&theme=dracula&show_owner=true" />
+<a href="https://github.com/austin-ryder117/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=austin-ryder117&show_icons=true&theme=merko&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austin-ryder117&exclude_repo=github-readme-stats,austin-ryder117.github.io&show_icons=true&theme=dracula&show_owner=true" />
 </a>
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" /> Languages and Tools
